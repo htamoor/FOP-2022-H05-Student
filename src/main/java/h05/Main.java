@@ -11,6 +11,7 @@ public class Main {
      * @param args program arguments, currently ignored
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        byte a = 2;
+        System.out.println(a);
     }
 }
